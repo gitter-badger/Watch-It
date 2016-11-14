@@ -31,3 +31,6 @@ Information pages and other documents:
 
 
 
+
+
+[![Join the chat at https://gitter.im/se-class-2017a/Lobby](https://badges.gitter.im/se-class-2017a/Lobby.svg)](https://gitter.im/se-class-2017a/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
